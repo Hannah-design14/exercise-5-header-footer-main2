@@ -1,12 +1,15 @@
+html {
+    background-color:black;
+}
 .header {
-    background-color:yellow;
+    background-color: gold;
 }
 
 .main {
-    background-color:teal;
+    background-color: gold;
 
 }
 
 .footer {
-    background-color: lightcyan;
+    background-color: gold;
 }
